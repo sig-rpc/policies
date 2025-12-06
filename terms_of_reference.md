@@ -118,10 +118,9 @@ The Society asks that the Steering Group ensure that an initial onboarding meeti
 - Introductions and icebreaker
 - Circulate this document and ask all to read it carefully
 - Ask each member to take the free (mandatory) online EDI training on https://elearning.acas.org.uk/
-    - Bullying & Harassment
-    - Discipline & Grievance
-    - Equality & Diversity
-    <!-- (no longer available) - Disability Discrimination and Reasonable Adjustments -->
+    - Bullying and harassment
+    - Discipline and grievance
+    - Equality, diversity and inclusion
 - Read the [Organisation Code of Conduct](https://society-rse.org/about/policies/code-of-conduct/)
 - Read the [Complaints and Grievances policy](https://society-rse.org/about/policies/)
 - Read (at least) the following sections of NCVO’s guidance on ‘[Involving Volunteers](https://www.ncvo.org.uk/help-and-guidance/involving-volunteers/)’
