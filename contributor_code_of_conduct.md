@@ -24,7 +24,7 @@ Do not contribute harmful content, stolen IP, or anything which may be considere
 
 ## 6. Report Problems Responsibly
 
-If you witness unacceptable behaviour, privately contact SIG-RPC's officers (sig-rpc-managers@society-rse.org).
+If you witness unacceptable behaviour, privately contact SIG-RPC's officers (sig-rpc-managers@society-rse.org), more serious/urgent grievances can be raised with Society RSE Code of Conduct Committee (coc@society-rse.org) as explained in the [Complaints and Grievances Policy](https://society-rse.org/about/policies/complaints-and-grievances-policy/)
 
 # Consequences for Violations
 
