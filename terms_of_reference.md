@@ -102,7 +102,7 @@ This steering group takes responsibility collectively for all decisions and can 
 
 For induction, the Steering Group is asked to:
 
-- Read this document carefully discussing it with the Trustees for clarification if necessary
+- Read this document carefully, discussing it with the Trustees for clarification if necessary
 
 The process for appointing the SIG committee is as follows:
 
