@@ -117,7 +117,7 @@ The Society asks that the Steering Group ensure that an initial onboarding meeti
 
 - Introductions and icebreaker
 - Circulate this document and ask all to read it carefully
-- Ask each member to take the free (mandatory) online EDI training on https://elearning.acas.org.uk/
+- Ask each member to take the following free (mandatory) online EDI training on https://elearning.acas.org.uk/
     - Bullying and harassment
     - Discipline and grievance
     - Equality, diversity and inclusion
