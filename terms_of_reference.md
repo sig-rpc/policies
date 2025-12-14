@@ -188,7 +188,7 @@ The Society will help in the creation of an *X (formerly Twitter)* account and w
 
 ## Codes of Conduct (CoC)
 
-The Society has two Codes of Conduct currently in place: an [event CoC](https://society-rse.org/about/policies/code-of-conduct/) and an [organisation CoC ](https://society-rse.org/about/policies/code-of-conduct-for-trustees/)(also known as the Trustee Code of Conduct). The event CoC covers the expected conduct at events and on any online forums and apps. The organisation CoC covers the expected conduct for the committees and subgroups. The Society expects both of these CoCs to be adopted by the Steering Group. Any changes to either document would need to be requested to the Society and approved by trustee vote. 
+The Society has two Codes of Conduct currently in place: an [event CoC](https://society-rse.org/about/policies/code-of-conduct/) and an [organisation CoC](https://society-rse.org/about/policies/code-of-conduct-for-trustees/) (also known as the Trustee Code of Conduct). The event CoC covers the expected conduct at events and on any online forums and apps. The organisation CoC covers the expected conduct for the committees and subgroups. The Society expects both of these CoCs to be adopted by the Steering Group. Any changes to either document would need to be requested to the Society and approved by trustee vote. 
 
 **END OF DOCUMENT**
 
