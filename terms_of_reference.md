@@ -154,8 +154,8 @@ The Society has an EDI team that are able to liaise and advise the SIG committee
 The Society asks that the committee think carefully about what giveaways it would like to make available to event attendees and make reasonable adjustments to minimise waste and the production of single use giveaways. 
 This may take the form of 
 
-- using an online programme app instead of printed copies, 
-- compostable name badges, 
+- using an online programme app instead of printed copies
+- compostable name badges
 - reusing previous years lanyards
 - encouraging attendees to bring reusable hot drink cups
 - only have one main event designed giveaway (t-shirt)
