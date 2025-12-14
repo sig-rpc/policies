@@ -81,7 +81,7 @@ The Society Treasurer will ensure that any events are covered with appropriate i
 
 <!-- How will the SIG committee report on progress to the Society, and how frequently? -->
 
-*All SIG documentation will be stored within [the SIG’s GitHub organisation](https://github.com/sig-rpc), in markdown, non-sensitive minutes and ToR will be available in public repositories for transparency. The Society can be given access to a private repository containing complete minutes at request. The Society will also be able to request compiled copies of minutes at their convenience.*
+*All SIG documentation will be stored within [the SIG’s GitHub organisation](https://github.com/sig-rpc), in markdown. Non-sensitive minutes and ToR will be available in public repositories for transparency. The Society can be given access to a private repository containing complete minutes at request. The Society will also be able to request compiled copies of minutes at their convenience.*
 
 The Society requests that one of the SIG committee reports on progress to the Society trustee meetings every three months. This can be the same person each time or change as necessary depending on availability. The report can be made in person, or emailed to any one of the trustees for inclusion in the agenda. If required, the Society can create a folder on the Google drive for the SIG’s documents.
 
