@@ -178,7 +178,7 @@ The Society asks the Steering Group to create a feedback form for any event atte
 
 *SIG-RPC will use a Google groups mailing list (sig-rpc@society-rse.org), provided by the Society and managed by the steering group, to ensure all official communications from the Steering group are received by all members. The steering committee will also use a Google groups mailing list (sig-rpc-steering-group@society-rse.org) so that they can be contacted privately.*
 
-*SIG-RPC will use the #sig-rpc channel within the Society’s slack to allow members, and visitors to discuss topics relating to the steering group’s above stated purpose.*
+*SIG-RPC will use the `#sig-rpc` channel within [the Society’s slack](https://ukrse.slack.com) to allow members, and visitors to discuss topics relating to the steering group’s above stated purpose.*
 
 *SIG-RPC will use the GitHub organisation https://github.com/sig-rpc for managing all SIG activities, with the steering group instated as owners of the organisation.*
 
