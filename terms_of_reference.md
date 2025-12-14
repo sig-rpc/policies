@@ -54,7 +54,7 @@ This Terms of Reference is effective from (*2024-11-08*) and continues until suc
 *SIG-RPC’s purposes are to:*
 
 - *organise events for members interested in growing the collective knowledge around performance best practices for research software. These may take the form of facilitated discussions, workshops or other events which allow members to collaborate, to research and share performance best practice rules and develop related training materials.*
-- *help members to deliver training around software performance by connecting them with other performance best practice instructors and students*
+- *help members to deliver training around software performance by connecting them with other performance best practice instructors and students.*
 - *advocate for wider application of performance best practices to the wider research software community through public outreach such as blog posts, videos or seminars.*
 - *work with providers of research computing software and infrastructure, such as HPC, to bridge the gap with novice users.*
 - *where applicable, aim to provide training materials that are broadly applicable, with the aim of allowing people from industries/fields beyond research software to also benefit.*
